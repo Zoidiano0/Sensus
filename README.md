@@ -16,5 +16,8 @@ A simple example of using the library stored in a file example.cpp. You can comp
 
 After compilation, you can run the sample using the command:
 ```cpp
-./example
+# ./example
 ```
+
+# WARNING!
+I remind you that you need ROOT user privileges to work with I2C bus in Linux OS.

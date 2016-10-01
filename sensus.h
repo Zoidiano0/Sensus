@@ -14,7 +14,7 @@
 #ifndef SENSUS_H
 #define SENSUS_H_H
 // ---------------------------------- BME280 SENSOR ----------------------------------
-float bme280_getdata(int bme280_type_of_request); // Function to get the data from the sensor BME280
+float bme280_getdata(int bme280_type_of_request);   // Function to get the data from the sensor BME280
 // ---------------------------------- BME280 SENSOR ----------------------------------
 
 // ---------------------------------- TSL2561 SENSOR ---------------------------------

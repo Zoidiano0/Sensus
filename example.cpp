@@ -16,7 +16,7 @@ int main()
     float total_light = tsl2561_getdata(TSL2561_TOTAL_LUX);
 
 	  
-    cout << fixed << setprecision(4);
+    cout << fixed << setprecision(2);
     cout << endl;
     cout << "Current temperature: " << temperature_c << " C"  <<endl;
     cout << "Current humidity: " << humidity << " %" << endl;

@@ -1,4 +1,4 @@
-#include <sensorica.h>
+#include <sensus.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <linux/i2c-dev.h>

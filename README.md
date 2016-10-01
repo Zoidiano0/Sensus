@@ -9,7 +9,7 @@ I express special gratitude to the community ControlEverythingCommunity!
 It's easy! Copy sensus.h and sensus.c to /usr/local/include/. 
 
 # How to use Sensus
-A simple example of using the library stored in a file sensus.cpp. You can compile it using:
+A simple example of using the library stored in a file example.cpp. You can compile it using:
 g++ sensus-test.cpp -o sensus
 After compilation, you can run the sample using the command:
 ./sensus-test
